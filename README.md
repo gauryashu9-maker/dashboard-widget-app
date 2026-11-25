@@ -225,4 +225,5 @@ This project is submitted for evaluation purposes only.
 **<Yashu Gaur>**
 - GitHub: (https://github.com/<gauryashu9-maker)
 - Submitted for: Frontend Trainee role
-- Link: https://github.com/gauryashu9-maker/dashboard-widget-app.git
+- Repository Link: https://github.com/gauryashu9-maker/dashboard-widget-app.git
+Live Demo Link- https://dashboard-widget-app-gamma.vercel.app
